@@ -12,3 +12,4 @@
     * in Find field, enter: _ModTemplate_
     * in Replace field, enter your new mod name
     * click Replace All in bottom right, click yes if prompted
+8. Open **generate_release.py** with a text editor, CTRL+F for _ModTemplate_ and replace it with your new mod name
