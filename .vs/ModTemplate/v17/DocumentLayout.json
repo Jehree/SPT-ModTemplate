@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ModTemplate||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ModTemplate-FikaModule||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9076ADE2-F4EE-4B5D-B9A6-29A054CF0A7E}|ModTemplate-Core\\ModTemplate.csproj|c:\\sp tarkov\\spt3.11.x\\dev\\spt-modtemplate\\modtemplate-core\\fika\\fikabridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9076ADE2-F4EE-4B5D-B9A6-29A054CF0A7E}|ModTemplate-Core\\ModTemplate.csproj|solutionrelative:modtemplate-core\\fika\\fikabridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9076ADE2-F4EE-4B5D-B9A6-29A054CF0A7E}|ModTemplate-Core\\ModTemplate.csproj|c:\\sp tarkov\\spt3.11.x\\dev\\spt-modtemplate\\modtemplate-core\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9076ADE2-F4EE-4B5D-B9A6-29A054CF0A7E}|ModTemplate-Core\\ModTemplate.csproj|solutionrelative:modtemplate-core\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F6A3E6-D43D-4B1A-8A98-05900FDA5247}|ModTemplate-FikaModule\\ModTemplate-FikaModule.csproj|c:\\sp tarkov\\spt3.11.x\\dev\\spt-modtemplate\\modtemplate-fikamodule\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F6A3E6-D43D-4B1A-8A98-05900FDA5247}|ModTemplate-FikaModule\\ModTemplate-FikaModule.csproj|solutionrelative:modtemplate-fikamodule\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F6A3E6-D43D-4B1A-8A98-05900FDA5247}|ModTemplate-FikaModule\\ModTemplate-FikaModule.csproj|c:\\sp tarkov\\spt3.11.x\\dev\\spt-modtemplate\\modtemplate-fikamodule\\packets\\packets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F6A3E6-D43D-4B1A-8A98-05900FDA5247}|ModTemplate-FikaModule\\ModTemplate-FikaModule.csproj|solutionrelative:modtemplate-fikamodule\\packets\\packets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F6A3E6-D43D-4B1A-8A98-05900FDA5247}|ModTemplate-FikaModule\\ModTemplate-FikaModule.csproj|c:\\sp tarkov\\spt3.11.x\\dev\\spt-modtemplate\\modtemplate-fikamodule\\common\\fikamethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F6A3E6-D43D-4B1A-8A98-05900FDA5247}|ModTemplate-FikaModule\\ModTemplate-FikaModule.csproj|solutionrelative:modtemplate-fikamodule\\common\\fikamethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F6A3E6-D43D-4B1A-8A98-05900FDA5247}|ModTemplate-FikaModule\\ModTemplate-FikaModule.csproj|c:\\sp tarkov\\spt3.11.x\\dev\\spt-modtemplate\\modtemplate-fikamodule\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9076ADE2-F4EE-4B5D-B9A6-29A054CF0A7E}|ModTemplate-Core\\ModTemplate.csproj|c:\\sp tarkov\\spt3.11.x\\dev\\spt-modtemplate\\modtemplate-core\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModTemplate",
+              "DocumentMoniker": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-Core\\ModTemplate.csproj",
+              "RelativeDocumentMoniker": "ModTemplate-Core\\ModTemplate.csproj",
+              "ToolTip": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-Core\\ModTemplate.csproj",
+              "RelativeToolTip": "ModTemplate-Core\\ModTemplate.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-01T20:15:36.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-Core\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ModTemplate-Core\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-Core\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ModTemplate-Core\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:09:14.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FikaBridge.cs",
+              "DocumentMoniker": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-Core\\Fika\\FikaBridge.cs",
+              "RelativeDocumentMoniker": "ModTemplate-Core\\Fika\\FikaBridge.cs",
+              "ToolTip": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-Core\\Fika\\FikaBridge.cs",
+              "RelativeToolTip": "ModTemplate-Core\\Fika\\FikaBridge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:08:48.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-FikaModule\\Main.cs",
+              "RelativeDocumentMoniker": "ModTemplate-FikaModule\\Main.cs",
+              "ToolTip": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-FikaModule\\Main.cs",
+              "RelativeToolTip": "ModTemplate-FikaModule\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:08:44.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Packets.cs",
+              "DocumentMoniker": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-FikaModule\\Packets\\Packets.cs",
+              "RelativeDocumentMoniker": "ModTemplate-FikaModule\\Packets\\Packets.cs",
+              "ToolTip": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-FikaModule\\Packets\\Packets.cs",
+              "RelativeToolTip": "ModTemplate-FikaModule\\Packets\\Packets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:08:30.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModTemplate-FikaModule",
+              "DocumentMoniker": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-FikaModule\\ModTemplate-FikaModule.csproj",
+              "RelativeDocumentMoniker": "ModTemplate-FikaModule\\ModTemplate-FikaModule.csproj",
+              "ToolTip": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-FikaModule\\ModTemplate-FikaModule.csproj",
+              "RelativeToolTip": "ModTemplate-FikaModule\\ModTemplate-FikaModule.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-01T20:08:14.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FikaMethods.cs",
+              "DocumentMoniker": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-FikaModule\\Common\\FikaMethods.cs",
+              "RelativeDocumentMoniker": "ModTemplate-FikaModule\\Common\\FikaMethods.cs",
+              "ToolTip": "C:\\SP Tarkov\\SPT3.11.X\\Dev\\SPT-ModTemplate\\ModTemplate-FikaModule\\Common\\FikaMethods.cs",
+              "RelativeToolTip": "ModTemplate-FikaModule\\Common\\FikaMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:07:44.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
