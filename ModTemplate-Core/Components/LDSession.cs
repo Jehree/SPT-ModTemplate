@@ -5,15 +5,15 @@ using UnityEngine;
 
 namespace ModTemplate.Components
 {
-    internal class LDSession : MonoBehaviour
+    internal class ModTemplateSession : MonoBehaviour
     {
-        private LDSession() { }
-        private static LDSession _instance = null;
+        private ModTemplateSession() { }
+        private static ModTemplateSession _instance = null;
 
         public Player Player { get; private set; }
         public GameWorld GameWorld { get; private set; }
         public GamePlayerOwner GamePlayerOwner { get; private set; }
-        public static LDSession Instance
+        public static ModTemplateSession Instance
         {
             get
             {
