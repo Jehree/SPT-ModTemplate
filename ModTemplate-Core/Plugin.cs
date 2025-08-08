@@ -12,6 +12,7 @@ using System.Reflection;
 namespace ModTemplate
 {
     [BepInDependency("com.fika.core", BepInDependency.DependencyFlags.SoftDependency)]
+    [BepInPlugin("ModTemplate.UniqueGUID", "ModTemplate", "1.0.0")]
     public class Plugin : BaseUnityPlugin
     {
         public static bool FikaInstalled { get; private set; }
